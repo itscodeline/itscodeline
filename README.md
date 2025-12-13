@@ -31,6 +31,6 @@ interested in **scientific research** and currently **planning on founding my ow
 
 ### Statistics
 ---
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=maximilianbuchwald&show_icons=true&theme=dark&hide_border=false&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=itscodeline&show_icons=true&theme=dark&hide_border=false&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximilianbuchwald&show_icons=true&theme=dark&hide_border=false&border_radius=20&layout=donut&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itscodeline&show_icons=true&theme=dark&hide_border=false&border_radius=20&layout=donut&hide=html)](https://github.com/anuraghazra/github-readme-stats)
