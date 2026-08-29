@@ -31,5 +31,5 @@ interested in **scientific research** and currently **planning on founding my ow
 
 ### Statistics
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=itscodeline&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=itscodeline&show_icons=true&include_all_commits=true&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=itscodeline&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=itscodeline&show_icons=true&include_all_commits=true&theme=github_dark)<b>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=itscodeline&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=itscodeline&langs_count=4&theme=github_dark)
