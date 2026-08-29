@@ -2,7 +2,7 @@
 ### Luca Maximilian B.
 ---
 Welcome to my GitHub profile. I'm **Maximilian**, a **20 years old developer and student** from Germany,
-interested in **scientific research** and currently **planning on founding my own company** at some point.
+interested in **scientific research**.
 
 ### Socials
 [![Discord](https://img.shields.io/badge/Discord-codeline-green?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/1074756312195416124)
