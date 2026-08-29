@@ -1,5 +1,5 @@
 
-### Maximilian B.
+### Luca Maximilian B.
 ---
 Welcome to my GitHub profile. I'm **Maximilian**, a **19 years old developer and student** from Germany,
 interested in **scientific research** and currently **planning on founding my own company** at some point.
