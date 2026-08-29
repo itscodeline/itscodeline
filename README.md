@@ -31,6 +31,6 @@ interested in **scientific research** and currently **planning on founding my ow
 
 ### Statistics
 ---
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=itscodeline&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=itscodeline&show_icons=true&include_all_commits=true&theme=github_dark)[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=itscodeline&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=itscodeline&show_icons=true&include_all_commits=true&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=itscodeline&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=itscodeline&show_icons=true&include_all_commits=true&theme=github_dark) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=itscodeline&layout=donut-vertical&langs_count=4&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=itscodeline&layout=donut-vertical&langs_count=4&theme=github_dark)
 
 [![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itscodeline&show_icons=true&theme=dark&hide_border=false&border_radius=20&layout=donut&hide=html)](https://github.com/anuraghazra/github-readme-stats)
